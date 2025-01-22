@@ -7,8 +7,14 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prepare": "husky",
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "release": "standard-version",
+    "changelog:generate": "standard-version --skip.bump --skip.commit --skip.tag",
+    "release:minor": "standard-version --release-as minor",
+    "release:patch": "standard-version --release-as patch",
+    "release:major": "standard-version --release-as major",
+    "release:dry": "standard-version --dry-run",
+    "prepare": "husky"
   },
   "dependencies": {
     "next": "15.1.6",
