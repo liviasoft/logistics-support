@@ -1,6 +1,6 @@
 {
   "name": "logistics-support",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -21,7 +21,6 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
-
   "devDependencies": {
     "@commitlint/cli": "^19.6.1",
     "@commitlint/config-conventional": "^19.6.0",
