@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/liviasoft/logistics-support/compare/v0.1.1...v0.1.2) (2025-01-23)
+
+
+### ♾️ Continuous Integration
+
+* github configurations setup ([7dd737a](https://github.com/liviasoft/logistics-support/commits/7dd737a58d6603e1ee343d4c8a5155f528ebe1ed))
+
 ### 0.1.1 (2025-01-22)
 
 
