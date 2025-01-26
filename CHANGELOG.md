@@ -2,7 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3-alpha.1](https://github.com/liviasoft/logistics-support/compare/v0.1.3-alpha.0...v0.1.3-alpha.1) (2025-01-26)
+
+
+### 🚚 Chores
+
+* **release:** 0.1.3-alpha.0 ([9f53756](https://github.com/liviasoft/logistics-support/commits/9f537564aa0cb21a0fd50fe5b272328b146fa844))
+
 ### [0.1.3-alpha.0](https://github.com/liviasoft/logistics-support/compare/v0.1.2...v0.1.3-alpha.0) (2025-01-25)
+
+
+### ♾️ Continuous Integration
+
+* streamline workflow actions ([5bb557b](https://github.com/liviasoft/logistics-support/commits/5bb557be4f3ab384b2d1cc68387e1a76ab14e2e9))
+
+
+### 📝 Documentation
+
+* update issue templates ([52f1c75](https://github.com/liviasoft/logistics-support/commits/52f1c75045851335849b277a9cea3d9af72af812))
 
 ### [0.1.2](https://github.com/liviasoft/logistics-support/compare/v0.1.1...v0.1.2) (2025-01-23)
 
